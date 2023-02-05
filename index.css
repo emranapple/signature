@@ -4,8 +4,8 @@ html, body {
 }
 
 .card {
-    width: 400px;
-/*     margin: 20px; */
+    width: 600px;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     border: 1px solid red;
@@ -18,7 +18,7 @@ html, body {
 }
 
 img {
-/*     float: left; */
+    float: left;
 }
 
 
