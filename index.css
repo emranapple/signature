@@ -4,8 +4,8 @@ html, body {
 }
 
 .card {
-    width: 600px;
-    margin: 20px;
+    width: 400px;
+/*     margin: 20px; */
     display: flex;
     flex-direction: column;
     
